@@ -1,2 +1,3 @@
 # Hello-world
-第一个库
+
+I want to learn python and kubernetes.
